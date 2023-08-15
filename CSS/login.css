@@ -1,0 +1,9 @@
+body {
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.login-form {
+    bottom: 45% !important;
+}
